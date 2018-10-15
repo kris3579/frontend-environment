@@ -37,6 +37,7 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
-    "cowsay-browser": "^1.1.8"
+    "cowsay-browser": "^1.1.8",
+    "faker": "^4.1.0"
   }
 }
